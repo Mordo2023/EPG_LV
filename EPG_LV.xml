@@ -1,0 +1,1435 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LTV1">
+    <display-name lang="lv">LTV1</display-name>
+    <icon src="https://cdn.tvstart.com/img/channel/201_1511250945-logo_64.jpg" />
+    <url>http://www.tv.lv</url>
+  </channel>
+  <channel id="LTV7">
+    <display-name lang="lv">LTV7</display-name>
+    <icon src="https://cdn.tvstart.com/img/channel/ltv7logo-logo_64.jpg" />
+    <url>http://www.tv.lv</url>
+  </channel>
+  <programme start="20221228004500 +0200" stop="20221228025500 +0200" channel="LTV1">
+    <title lang="lv">Brīnišķā dzīve. Drāma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228025500 +0200" stop="20221228035000 +0200" channel="LTV1">
+    <title lang="lv">Ziemassvētku koncerts Dailes teātrī</title>
+  </programme>
+  <programme start="20221228035000 +0200" stop="20221228040700 +0200" channel="LTV1">
+    <title lang="lv">Aculiecinieks. Frontes medmāsa</title>
+  </programme>
+  <programme start="20221228040700 +0200" stop="20221228041500 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228041500 +0200" stop="20221228044200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesmas speciālizlaidums. RETRO</title>
+  </programme>
+  <programme start="20221228044200 +0200" stop="20221228051000 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesmas speciālizlaidums. RETRO</title>
+  </programme>
+  <programme start="20221228051000 +0200" stop="20221228052000 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228052000 +0200" stop="20221228060000 +0200" channel="LTV1">
+    <title lang="lv">Nacionālie dārgumi. 100 g kultūras</title>
+  </programme>
+  <programme start="20221228060000 +0200" stop="20221228060200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221228060200 +0200" stop="20221228063000 +0200" channel="LTV1">
+    <title lang="lv">Lielās patiesības</title>
+  </programme>
+  <programme start="20221228063000 +0200" stop="20221228083500 +0200" channel="LTV1">
+    <title lang="lv">Rīta Panorāma</title>
+  </programme>
+  <programme start="20221228083500 +0200" stop="20221228093000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228093000 +0200" stop="20221228103000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228103000 +0200" stop="20221228111500 +0200" channel="LTV1">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221228111500 +0200" stop="20221228120000 +0200" channel="LTV1">
+    <title lang="lv">Tutas Ziemassvētku koncerts "Piparkūku sirds</title>
+  </programme>
+  <programme start="20221228120000 +0200" stop="20221228121000 +0200" channel="LTV1">
+    <title lang="lv">Divas Tutas gatavojas Ziemassvētkiem</title>
+  </programme>
+  <programme start="20221228121000 +0200" stop="20221228122500 +0200" channel="LTV1">
+    <title lang="lv">TUTAS Ziemassvētki</title>
+  </programme>
+  <programme start="20221228122500 +0200" stop="20221228140000 +0200" channel="LTV1">
+    <title lang="lv">Ziemassvētku vecīša meita un karaļa kristāls. Ģimenes filma</title>
+  </programme>
+  <programme start="20221228140000 +0200" stop="20221228143000 +0200" channel="LTV1">
+    <title lang="lv">Ziemassvētki ar muzifantiem. Animācijas filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228143000 +0200" stop="20221228145500 +0200" channel="LTV1">
+    <title lang="lv">Lācēna Padingtona Ziemassvētki. Animācijas filma</title>
+  </programme>
+  <programme start="20221228145500 +0200" stop="20221228151500 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20221228151500 +0200" stop="20221228161000 +0200" channel="LTV1">
+    <title lang="lv">Krustpunktā</title>
+  </programme>
+  <programme start="20221228161000 +0200" stop="20221228171000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228171000 +0200" stop="20221228180000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228180000 +0200" stop="20221228183300 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20221228183300 +0200" stop="20221228184500 +0200" channel="LTV1">
+    <title lang="lv">Kultūras ziņas</title>
+  </programme>
+  <programme start="20221228184500 +0200" stop="20221228185100 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221228185100 +0200" stop="20221228185500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221228185500 +0200" stop="20221228192500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228192500 +0200" stop="20221228200000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228200000 +0200" stop="20221228203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20221228203700 +0200" stop="20221228205600 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20221228205600 +0200" stop="20221228210200 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221228210200 +0200" stop="20221228210500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221228210500 +0200" stop="20221228211500 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Loto izlozes</title>
+  </programme>
+  <programme start="20221228211500 +0200" stop="20221228225500 +0200" channel="LTV1">
+    <title lang="lv">Fantomass trako. Mākslas filma</title>
+  </programme>
+  <programme start="20221228225500 +0200" stop="20221228230500 +0200" channel="LTV1">
+    <title lang="lv">Nakts ziņas</title>
+  </programme>
+  <programme start="20221228230500 +0200" stop="20221228230700 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221228230700 +0200" stop="20221228231000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221228231000 +0200" stop="20221229004000 +0200" channel="LTV1">
+    <title lang="lv">Riekstkodis. Muzikāla ģimenes filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229004000 +0200" stop="20221229022000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas stāsts. Romantiska drāma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229022000 +0200" stop="20221229031500 +0200" channel="LTV1">
+    <title lang="lv">LTV piedāvā... Mūzika Ziemassvētkos</title>
+  </programme>
+  <programme start="20221229031500 +0200" stop="20221229034500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229034500 +0200" stop="20221229041500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229041500 +0200" stop="20221229042000 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229042000 +0200" stop="20221229045000 +0200" channel="LTV1">
+    <title lang="lv">Lielās patiesības</title>
+  </programme>
+  <programme start="20221229045000 +0200" stop="20221229053000 +0200" channel="LTV1">
+    <title lang="lv">Daudz laimes, jubilār! Aktrise un režisore Rēzija Kalniņa</title>
+  </programme>
+  <programme start="20221229053000 +0200" stop="20221229060000 +0200" channel="LTV1">
+    <title lang="lv">Latgales pilsētu stāsti : nezināmais par zināmo. Krāslava. Dagda</title>
+  </programme>
+  <programme start="20221229060000 +0200" stop="20221229060200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221229060200 +0200" stop="20221229063000 +0200" channel="LTV1">
+    <title lang="lv">Province</title>
+  </programme>
+  <programme start="20221229063000 +0200" stop="20221229083500 +0200" channel="LTV1">
+    <title lang="lv">Rīta Panorāma</title>
+  </programme>
+  <programme start="20221229083500 +0200" stop="20221229093000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229093000 +0200" stop="20221229103000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229103000 +0200" stop="20221229111500 +0200" channel="LTV1">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221229111500 +0200" stop="20221229120500 +0200" channel="LTV1">
+    <title lang="lv">TUTAS koncerts “Dziesmu ceļojums</title>
+  </programme>
+  <programme start="20221229120500 +0200" stop="20221229123000 +0200" channel="LTV1">
+    <title lang="lv">Ziemassvētku vēstule. Animācijas īsfilma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229123000 +0200" stop="20221229135500 +0200" channel="LTV1">
+    <title lang="lv">Ziemassvētku aļņa stāsts. Ģimenes filma</title>
+  </programme>
+  <programme start="20221229135500 +0200" stop="20221229145500 +0200" channel="LTV1">
+    <title lang="lv">Raimonds Pauls un Jānis Peters Ziemassvētku koncertā “Mierinājums</title>
+  </programme>
+  <programme start="20221229145500 +0200" stop="20221229151500 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20221229151500 +0200" stop="20221229161000 +0200" channel="LTV1">
+    <title lang="lv">Krustpunktā</title>
+  </programme>
+  <programme start="20221229161000 +0200" stop="20221229171000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229171000 +0200" stop="20221229180000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229180000 +0200" stop="20221229183300 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20221229183300 +0200" stop="20221229184500 +0200" channel="LTV1">
+    <title lang="lv">Kultūras ziņas</title>
+  </programme>
+  <programme start="20221229184500 +0200" stop="20221229185100 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221229185100 +0200" stop="20221229185500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221229185500 +0200" stop="20221229192500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229192500 +0200" stop="20221229200000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229200000 +0200" stop="20221229203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20221229203700 +0200" stop="20221229205700 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20221229205700 +0200" stop="20221229210400 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221229210400 +0200" stop="20221229211000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221229211000 +0200" stop="20221229214000 +0200" channel="LTV1">
+    <title lang="lv">Neatklātā Vidzeme</title>
+  </programme>
+  <programme start="20221229214000 +0200" stop="20221229221000 +0200" channel="LTV1">
+    <title lang="lv">Iekodies</title>
+  </programme>
+  <programme start="20221229221000 +0200" stop="20221229223500 +0200" channel="LTV1">
+    <title lang="lv">Fati. Latgaliešu seriāls</title>
+  </programme>
+  <programme start="20221229223500 +0200" stop="20221229230500 +0200" channel="LTV1">
+    <title lang="lv">Fati. Latgaliešu seriāls</title>
+  </programme>
+  <programme start="20221229230500 +0200" stop="20221229231500 +0200" channel="LTV1">
+    <title lang="lv">Nakts ziņas</title>
+  </programme>
+  <programme start="20221229231500 +0200" stop="20221229231700 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221229231700 +0200" stop="20221229232000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221229232000 +0200" stop="20221230011500 +0200" channel="LTV1">
+    <title lang="lv">Brokastis "Tifanijā". Romantiska komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230011500 +0200" stop="20221230025000 +0200" channel="LTV1">
+    <title lang="lv">Montijs Paitons un Svētais Grāls. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230025000 +0200" stop="20221230031000 +0200" channel="LTV1">
+    <title lang="lv">Priecīgus Ziemassvētkus! Koncerts</title>
+  </programme>
+  <programme start="20221230031000 +0200" stop="20221230034000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230034000 +0200" stop="20221230041000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230041000 +0200" stop="20221230042000 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230042000 +0200" stop="20221230043600 +0200" channel="LTV1">
+    <title lang="lv">Aculiecinieks. Frontes medmāsa</title>
+  </programme>
+  <programme start="20221230043600 +0200" stop="20221230044500 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230044500 +0200" stop="20221230052000 +0200" channel="LTV1">
+    <title lang="lv">Daudz laimes, jubilār! Mūziķis Deniss Paškevičs</title>
+  </programme>
+  <programme start="20221230052000 +0200" stop="20221230060000 +0200" channel="LTV1">
+    <title lang="lv">Daudz laimes, jubilār! Kino režisors Rolands Kalniņš</title>
+  </programme>
+  <programme start="20221230060000 +0200" stop="20221230060200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221230060200 +0200" stop="20221230063000 +0200" channel="LTV1">
+    <title lang="lv">Pasaules panorāma</title>
+  </programme>
+  <programme start="20221230063000 +0200" stop="20221230083500 +0200" channel="LTV1">
+    <title lang="lv">Rīta Panorāma</title>
+  </programme>
+  <programme start="20221230083500 +0200" stop="20221230093000 +0200" channel="LTV1">
+    <title lang="lv">Saplēstā krūze. Daudzsēriju filma</title>
+  </programme>
+  <programme start="20221230093000 +0200" stop="20221230103000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230103000 +0200" stop="20221230111500 +0200" channel="LTV1">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221230111500 +0200" stop="20221230121000 +0200" channel="LTV1">
+    <title lang="lv">Kaķīša dzirnavas. Animācijas filma</title>
+  </programme>
+  <programme start="20221230121000 +0200" stop="20221230135500 +0200" channel="LTV1">
+    <title lang="lv">Nāc līdzās Ziemassvētkos</title>
+  </programme>
+  <programme start="20221230135500 +0200" stop="20221230142500 +0200" channel="LTV1">
+    <title lang="lv">Latviešu godi. Ziemas saulgrieži</title>
+  </programme>
+  <programme start="20221230142500 +0200" stop="20221230145500 +0200" channel="LTV1">
+    <title lang="lv">Lielās patiesības</title>
+  </programme>
+  <programme start="20221230145500 +0200" stop="20221230151500 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20221230151500 +0200" stop="20221230161000 +0200" channel="LTV1">
+    <title lang="lv">Krustpunktā</title>
+  </programme>
+  <programme start="20221230161000 +0200" stop="20221230170500 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230170500 +0200" stop="20221230180000 +0200" channel="LTV1">
+    <title lang="lv">Saplēstā krūze. Daudzsēriju filma</title>
+  </programme>
+  <programme start="20221230180000 +0200" stop="20221230182800 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20221230182800 +0200" stop="20221230184000 +0200" channel="LTV1">
+    <title lang="lv">Kultūras ziņas</title>
+  </programme>
+  <programme start="20221230184000 +0200" stop="20221230184600 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221230184600 +0200" stop="20221230185000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221230185000 +0200" stop="20221230200000 +0200" channel="LTV1">
+    <title lang="lv">Gudrs, vēl gudrāks. Zvaigžņu spēle</title>
+  </programme>
+  <programme start="20221230200000 +0200" stop="20221230203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20221230203700 +0200" stop="20221230204300 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221230204300 +0200" stop="20221230205000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221230205000 +0200" stop="20221230213000 +0200" channel="LTV1">
+    <title lang="lv">Daudz laimes, jubilār! Aktrise Indra Briķe</title>
+  </programme>
+  <programme start="20221230213000 +0200" stop="20221230220000 +0200" channel="LTV1">
+    <title lang="lv">Teātris. ZIP</title>
+  </programme>
+  <programme start="20221230220000 +0200" stop="20221230225000 +0200" channel="LTV1">
+    <title lang="lv">Māsas Bonifācijas noslēpumi. Britu detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230225000 +0200" stop="20221230232500 +0200" channel="LTV1">
+    <title lang="lv">Normāli cilvēki. Īru seriāls</title>
+  </programme>
+  <programme start="20221230232500 +0200" stop="20221230233500 +0200" channel="LTV1">
+    <title lang="lv">Nakts ziņas</title>
+  </programme>
+  <programme start="20221230233500 +0200" stop="20221230233700 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221230233700 +0200" stop="20221230234000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221230234000 +0200" stop="20221231011500 +0200" channel="LTV1">
+    <title lang="lv">Vera 4. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231011500 +0200" stop="20221231025500 +0200" channel="LTV1">
+    <title lang="lv">Montijs Paitons un Braiena dzīve. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231025500 +0200" stop="20221231031000 +0200" channel="LTV1">
+    <title lang="lv">Aculiecinieks. Frontes medmāsa</title>
+  </programme>
+  <programme start="20221231031000 +0200" stop="20221231034000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231034000 +0200" stop="20221231041000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231041000 +0200" stop="20221231041500 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231041500 +0200" stop="20221231044200 +0200" channel="LTV1">
+    <title lang="lv">Neprāta cena. Latvijas TV seriāls. 251. sērija</title>
+  </programme>
+  <programme start="20221231044200 +0200" stop="20221231050900 +0200" channel="LTV1">
+    <title lang="lv">Neprāta cena. Latvijas TV seriāls. 252. sērija</title>
+  </programme>
+  <programme start="20221231050900 +0200" stop="20221231053400 +0200" channel="LTV1">
+    <title lang="lv">Neprāta cena. Latvijas TV seriāls. 253. sērija</title>
+  </programme>
+  <programme start="20221231053400 +0200" stop="20221231060000 +0200" channel="LTV1">
+    <title lang="lv">Neprāta cena. Latvijas TV seriāls. 254. sērija</title>
+  </programme>
+  <programme start="20221231060000 +0200" stop="20221231060300 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221231060300 +0200" stop="20221231063000 +0200" channel="LTV1">
+    <title lang="lv">Kosmo. Piedzīvojumu seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231063000 +0200" stop="20221231064200 +0200" channel="LTV1">
+    <title lang="lv">Bitīte Maija. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231064200 +0200" stop="20221231065500 +0200" channel="LTV1">
+    <title lang="lv">Bitīte Maija. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231065500 +0200" stop="20221231070200 +0200" channel="LTV1">
+    <title lang="lv">Lāči – kārumnieki. Animācijas seriāls</title>
+  </programme>
+  <programme start="20221231070200 +0200" stop="20221231071000 +0200" channel="LTV1">
+    <title lang="lv">Lāči – kārumnieki. Animācijas seriāls</title>
+  </programme>
+  <programme start="20221231071000 +0200" stop="20221231072000 +0200" channel="LTV1">
+    <title lang="lv">Pelēns Tips. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231072000 +0200" stop="20221231073000 +0200" channel="LTV1">
+    <title lang="lv">Pelēns Tips 2. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231073000 +0200" stop="20221231074200 +0200" channel="LTV1">
+    <title lang="lv">Mušmušs un sēnīši. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231074200 +0200" stop="20221231075000 +0200" channel="LTV1">
+    <title lang="lv">Mazā pingvīna piedzīvojumi. Animācijas seriāls</title>
+  </programme>
+  <programme start="20221231075000 +0200" stop="20221231075600 +0200" channel="LTV1">
+    <title lang="lv">Lupatiņi. Animācijas filmu cikls. Kā Lupatiņi ceļoja</title>
+  </programme>
+  <programme start="20221231075600 +0200" stop="20221231080200 +0200" channel="LTV1">
+    <title lang="lv">Lupatiņi. Animācijas filmu cikls. Kā Lupatiņi brokastoja</title>
+  </programme>
+  <programme start="20221231080200 +0200" stop="20221231081000 +0200" channel="LTV1">
+    <title lang="lv">Lupatiņi. Animācijas filmu cikls. Kā Lupatiņi skaitīja laiku</title>
+  </programme>
+  <programme start="20221231081000 +0200" stop="20221231084000 +0200" channel="LTV1">
+    <title lang="lv">Pirmais ziemas sniegs. Animācijas īsfilma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231084000 +0200" stop="20221231085500 +0200" channel="LTV1">
+    <title lang="lv">Bardaks bēniņos. 3.sezona</title>
+  </programme>
+  <programme start="20221231085500 +0200" stop="20221231103500 +0200" channel="LTV1">
+    <title lang="lv">Adamsu ģimene. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231103500 +0200" stop="20221231115500 +0200" channel="LTV1">
+    <title lang="lv">Vella kalpi. Mākslas filma</title>
+  </programme>
+  <programme start="20221231115500 +0200" stop="20221231132500 +0200" channel="LTV1">
+    <title lang="lv">Vella kalpi Vella dzirnavās. Mākslas filma</title>
+  </programme>
+  <programme start="20221231132500 +0200" stop="20221231145000 +0200" channel="LTV1">
+    <title lang="lv">Limuzīns Jāņu nakts krāsā. Mākslas filma. Atjaunotā versija</title>
+  </programme>
+  <programme start="20221231145000 +0200" stop="20221231155000 +0200" channel="LTV1">
+    <title lang="lv">Uz deju uzlūdz R.Pauls</title>
+  </programme>
+  <programme start="20221231155000 +0200" stop="20221231170000 +0200" channel="LTV1">
+    <title lang="lv">Gudrs, vēl gudrāks. Zvaigžņu spēle</title>
+  </programme>
+  <programme start="20221231170000 +0200" stop="20221231180000 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesma</title>
+  </programme>
+  <programme start="20221231180000 +0200" stop="20221231180900 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20221231180900 +0200" stop="20221231181200 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221231181200 +0200" stop="20221231181500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221231181500 +0200" stop="20221231185000 +0200" channel="LTV1">
+    <title lang="lv">Kultūras notikumu gada apskats</title>
+  </programme>
+  <programme start="20221231185000 +0200" stop="20221231200000 +0200" channel="LTV1">
+    <title lang="lv">Gada notikumu apskats 2022</title>
+  </programme>
+  <programme start="20221231200000 +0200" stop="20221231203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20221231203700 +0200" stop="20221231204900 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20221231204900 +0200" stop="20221231205500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20221231205500 +0200" stop="20221231210500 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Loto izlozes</title>
+  </programme>
+  <programme start="20221231210500 +0200" stop="20221231214000 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesma. Vecgada vakara speciālizlaidums</title>
+  </programme>
+  <programme start="20221231214000 +0200" stop="20221231234800 +0200" channel="LTV1">
+    <title lang="lv">Vecgada svinības ar Labvēlīgo Tipu “Lai laime…</title>
+  </programme>
+  <programme start="20221231234800 +0200" stop="20221231235500 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Republikas Ministru prezidenta Krišjāņa Kariņa uzruna gadumijā</title>
+  </programme>
+  <programme start="20221231235500 +0200" stop="20230101000000 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Valsts prezidenta Egila Levita uzruna gadumijā</title>
+  </programme>
+  <programme start="20230101000000 +0200" stop="20230101000300 +0200" channel="LTV1">
+    <title lang="lv">Gadumijas sagaidīšana. Latvijas Valsts himna</title>
+  </programme>
+  <programme start="20230101000300 +0200" stop="20230101013500 +0200" channel="LTV1">
+    <title lang="lv">Mikrofona dziesmas. LTV 45</title>
+  </programme>
+  <programme start="20230101013500 +0200" stop="20230101030500 +0200" channel="LTV1">
+    <title lang="lv">Mikrofona dziesmas. LTV 45</title>
+  </programme>
+  <programme start="20230101030500 +0200" stop="20230101043500 +0200" channel="LTV1">
+    <title lang="lv">Mikrofona dziesmas. LTV 45</title>
+  </programme>
+  <programme start="20230101043500 +0200" stop="20230101060000 +0200" channel="LTV1">
+    <title lang="lv">Mikrofona dziesmas. LTV 45</title>
+  </programme>
+  <programme start="20230101060000 +0200" stop="20230101060300 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230101060300 +0200" stop="20230101063000 +0200" channel="LTV1">
+    <title lang="lv">Kosmo. Piedzīvojumu seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101063000 +0200" stop="20230101064200 +0200" channel="LTV1">
+    <title lang="lv">Bitīte Maija. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101064200 +0200" stop="20230101065500 +0200" channel="LTV1">
+    <title lang="lv">Bitīte Maija. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101065500 +0200" stop="20230101070200 +0200" channel="LTV1">
+    <title lang="lv">Lāči – kārumnieki. Animācijas seriāls</title>
+  </programme>
+  <programme start="20230101070200 +0200" stop="20230101071000 +0200" channel="LTV1">
+    <title lang="lv">Lāči – kārumnieki. Animācijas seriāls</title>
+  </programme>
+  <programme start="20230101071000 +0200" stop="20230101072000 +0200" channel="LTV1">
+    <title lang="lv">Pelēns Tips 2. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101072000 +0200" stop="20230101073000 +0200" channel="LTV1">
+    <title lang="lv">Pelēns Tips 2. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101073000 +0200" stop="20230101074200 +0200" channel="LTV1">
+    <title lang="lv">Mušmušs un sēnīši. Animācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101074200 +0200" stop="20230101075000 +0200" channel="LTV1">
+    <title lang="lv">Mazā pingvīna piedzīvojumi. Animācijas seriāls</title>
+  </programme>
+  <programme start="20230101075000 +0200" stop="20230101081500 +0200" channel="LTV1">
+    <title lang="lv">Pūķi: Nakts fūrijas dāvana. Animācijas īsfilma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101081500 +0200" stop="20230101093300 +0200" channel="LTV1">
+    <title lang="lv">Lote un pazudušie pūķi. Animācijas filma</title>
+  </programme>
+  <programme start="20230101093300 +0200" stop="20230101093900 +0200" channel="LTV1">
+    <title lang="lv">Tutas lietas. 10. sezona. Tuta keramikas darbnīcā</title>
+  </programme>
+  <programme start="20230101093900 +0200" stop="20230101094500 +0200" channel="LTV1">
+    <title lang="lv">Tutas lietas. 10. sezona. Tuta raksta dzejoli</title>
+  </programme>
+  <programme start="20230101094500 +0200" stop="20230101095000 +0200" channel="LTV1">
+    <title lang="lv">Ukulele. 2.sezona</title>
+  </programme>
+  <programme start="20230101095000 +0200" stop="20230101103000 +0200" channel="LTV1">
+    <title lang="lv">Ukuleles koncertieraksts "Uku un Leles dziesmas</title>
+  </programme>
+  <programme start="20230101103000 +0200" stop="20230101111500 +0200" channel="LTV1">
+    <title lang="lv">Sirmais. Kulta ēdieni. 3. sezona. Sardīnija. Tuncis</title>
+  </programme>
+  <programme start="20230101111500 +0200" stop="20230101121500 +0200" channel="LTV1">
+    <title lang="lv">Dievkalpojums no Rīgas Svētās Marijas Magdalēnas Romas katoļu baznīcas</title>
+  </programme>
+  <programme start="20230101121500 +0200" stop="20230101144500 +0200" channel="LTV1">
+    <title lang="lv">Vīnes filharmoniķu Jaungada koncerts, 2023</title>
+  </programme>
+  <programme start="20230101144500 +0200" stop="20230101154000 +0200" channel="LTV1">
+    <title lang="lv">Purva bridējs. Filmas arheoloģija</title>
+  </programme>
+  <programme start="20230101154000 +0200" stop="20230101180000 +0200" channel="LTV1">
+    <title lang="lv">Jumprava XO. Koncerts</title>
+  </programme>
+  <programme start="20230101180000 +0200" stop="20230101181000 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20230101181000 +0200" stop="20230101181700 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230101181700 +0200" stop="20230101182500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230101182500 +0200" stop="20230101200000 +0200" channel="LTV1">
+    <title lang="lv">Bēthovena Ziemassvētku piedzīvojums. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101200000 +0200" stop="20230101202100 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20230101202100 +0200" stop="20230101202600 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230101202600 +0200" stop="20230101203000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230101203000 +0200" stop="20230101212500 +0200" channel="LTV1">
+    <title lang="lv">25 gadi kopā ar “Midsomeras slepkavībām”. Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101212500 +0200" stop="20230101230000 +0200" channel="LTV1">
+    <title lang="lv">Midsomeras slepkavības 23. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101230000 +0200" stop="20230102005500 +0200" channel="LTV1">
+    <title lang="lv">Mulenrūža. Mūzikls</title>
+  </programme>
+  <programme start="20230102005500 +0200" stop="20230102021500 +0200" channel="LTV1">
+    <title lang="lv">Jaungada koncerts Belgradā: simfoniskais orķestris un koris. Koncerts (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102021500 +0200" stop="20230102050800 +0200" channel="LTV1">
+    <title lang="lv">Vecgada vakara šovs "Neiespējamā misija 2020</title>
+  </programme>
+  <programme start="20230102050800 +0200" stop="20230102052000 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102052000 +0200" stop="20230102060000 +0200" channel="LTV1">
+    <title lang="lv">Nacionālie dārgumi. 100 g kultūras</title>
+  </programme>
+  <programme start="20230102060000 +0200" stop="20230102060200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230102060200 +0200" stop="20230102063000 +0200" channel="LTV1">
+    <title lang="lv">Iekodies</title>
+  </programme>
+  <programme start="20230102063000 +0200" stop="20230102083500 +0200" channel="LTV1">
+    <title lang="lv">Rīta Panorāma</title>
+  </programme>
+  <programme start="20230102083500 +0200" stop="20230102093000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102093000 +0200" stop="20230102103000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102103000 +0200" stop="20230102111500 +0200" channel="LTV1">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20230102111500 +0200" stop="20230102125000 +0200" channel="LTV1">
+    <title lang="lv">Lennebergas Emīls. Ģimenes filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102125000 +0200" stop="20230102143000 +0200" channel="LTV1">
+    <title lang="lv">Adamsu ģimene. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102143000 +0200" stop="20230102151500 +0200" channel="LTV1">
+    <title lang="lv">Ukuleles koncertieraksts "Uku un Leles dziesmas</title>
+  </programme>
+  <programme start="20230102151500 +0200" stop="20230102161000 +0200" channel="LTV1">
+    <title lang="lv">Krustpunktā</title>
+  </programme>
+  <programme start="20230102161000 +0200" stop="20230102171000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102171000 +0200" stop="20230102180000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102180000 +0200" stop="20230102182000 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20230102182000 +0200" stop="20230102182600 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230102182600 +0200" stop="20230102183000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230102183000 +0200" stop="20230102190000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102190000 +0200" stop="20230102193000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 4.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102193000 +0200" stop="20230102200000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 4.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102200000 +0200" stop="20230102203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20230102203700 +0200" stop="20230102205700 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20230102205700 +0200" stop="20230102210400 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230102210400 +0200" stop="20230102211000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230102211000 +0200" stop="20230102215500 +0200" channel="LTV1">
+    <title lang="lv">V.I.P. - Veiksme. Intuīcija. Prāts</title>
+  </programme>
+  <programme start="20230102215500 +0200" stop="20230102235000 +0200" channel="LTV1">
+    <title lang="lv">Pilsēta pie upes</title>
+  </programme>
+  <programme start="20230102235000 +0200" stop="20230103010000 +0200" channel="LTV1">
+    <title lang="lv">Gada notikumu apskats 2022</title>
+  </programme>
+  <programme start="20230103010000 +0200" stop="20230103013000 +0200" channel="LTV1">
+    <title lang="lv">Kultūras notikumu gada apskats</title>
+  </programme>
+  <programme start="20230103013000 +0200" stop="20230103020500 +0200" channel="LTV1">
+    <title lang="lv">Normāli cilvēki. Īru seriāls</title>
+  </programme>
+  <programme start="20230103020500 +0200" stop="20230103034500 +0200" channel="LTV1">
+    <title lang="lv">Mīlas stāsts. Romantiska drāma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103034500 +0200" stop="20230103041500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 3.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103041500 +0200" stop="20230103051400 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesma</title>
+  </programme>
+  <programme start="20230103051400 +0200" stop="20230103052000 +0200" channel="LTV1">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103052000 +0200" stop="20230103060000 +0200" channel="LTV1">
+    <title lang="lv">Nacionālie dārgumi. 100 g kultūras</title>
+  </programme>
+  <programme start="20230103060000 +0200" stop="20230103060200 +0200" channel="LTV1">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230103060200 +0200" stop="20230103063000 +0200" channel="LTV1">
+    <title lang="lv">Neatklātā Vidzeme</title>
+  </programme>
+  <programme start="20230103063000 +0200" stop="20230103083500 +0200" channel="LTV1">
+    <title lang="lv">Rīta Panorāma</title>
+  </programme>
+  <programme start="20230103083500 +0200" stop="20230103093000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103093000 +0200" stop="20230103103000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103103000 +0200" stop="20230103111500 +0200" channel="LTV1">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20230103111500 +0200" stop="20230103124500 +0200" channel="LTV1">
+    <title lang="lv">Lennebergas Emīla jaunie nedarbi. Ģimenes filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103124500 +0200" stop="20230103131500 +0200" channel="LTV1">
+    <title lang="lv">Pirmais ziemas sniegs. Animācijas īsfilma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103131500 +0200" stop="20230103135500 +0200" channel="LTV1">
+    <title lang="lv">Sirmais. Kulta ēdieni. 3. sezona. Sardīnija. Tuncis</title>
+  </programme>
+  <programme start="20230103135500 +0200" stop="20230103145500 +0200" channel="LTV1">
+    <title lang="lv">Latvijas Sirdsdziesma</title>
+  </programme>
+  <programme start="20230103145500 +0200" stop="20230103151500 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20230103151500 +0200" stop="20230103161000 +0200" channel="LTV1">
+    <title lang="lv">Krustpunktā</title>
+  </programme>
+  <programme start="20230103161000 +0200" stop="20230103171000 +0200" channel="LTV1">
+    <title lang="lv">Sešas māsas. Spānijas telenovele (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103171000 +0200" stop="20230103180000 +0200" channel="LTV1">
+    <title lang="lv">Mīlas viesulis 18. Vācijas seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103180000 +0200" stop="20230103183300 +0200" channel="LTV1">
+    <title lang="lv">Dienas ziņas</title>
+  </programme>
+  <programme start="20230103183300 +0200" stop="20230103184500 +0200" channel="LTV1">
+    <title lang="lv">Kultūras ziņas</title>
+  </programme>
+  <programme start="20230103184500 +0200" stop="20230103185100 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230103185100 +0200" stop="20230103185500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230103185500 +0200" stop="20230103192500 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 4.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103192500 +0200" stop="20230103200000 +0200" channel="LTV1">
+    <title lang="lv">Smalkais stils. 4.sezona. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103200000 +0200" stop="20230103203700 +0200" channel="LTV1">
+    <title lang="lv">Panorāma</title>
+  </programme>
+  <programme start="20230103203700 +0200" stop="20230103205700 +0200" channel="LTV1">
+    <title lang="lv">Šodienas jautājums</title>
+  </programme>
+  <programme start="20230103205700 +0200" stop="20230103210400 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230103210400 +0200" stop="20230103211000 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230103211000 +0200" stop="20230103220000 +0200" channel="LTV1">
+    <title lang="lv">1:1. Aktuālā intervija</title>
+  </programme>
+  <programme start="20230103220000 +0200" stop="20230103232000 +0200" channel="LTV1">
+    <title lang="lv">Hekabes jautājums. Dokumentāla filma</title>
+  </programme>
+  <programme start="20230103232000 +0200" stop="20230103233000 +0200" channel="LTV1">
+    <title lang="lv">Nakts ziņas</title>
+  </programme>
+  <programme start="20230103233000 +0200" stop="20230103233200 +0200" channel="LTV1">
+    <title lang="lv">Sporta ziņas</title>
+  </programme>
+  <programme start="20230103233200 +0200" stop="20230103233500 +0200" channel="LTV1">
+    <title lang="lv">Laika ziņas</title>
+  </programme>
+  <programme start="20230103233500 +0200" stop="20230104020600 +0200" channel="LTV1">
+    <title lang="lv">Vīnes filharmoniķu Jaungada koncerts, 2023</title>
+  </programme>
+  <programme start="20221228005000 +0200" stop="20221228025000 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20221228025000 +0200" stop="20221228032000 +0200" channel="LTV7">
+    <title lang="lv">Vienmēr formā! Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228032000 +0200" stop="20221228040500 +0200" channel="LTV7">
+    <title lang="lv">Eiropa koncertos. Lorāns de Vilds. Koncertierakstu žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228040500 +0200" stop="20221228050000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221228050000 +0200" stop="20221228060000 +0200" channel="LTV7">
+    <title lang="lv">Sporta studija. Aizkulises</title>
+  </programme>
+  <programme start="20221228060000 +0200" stop="20221228060200 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221228060200 +0200" stop="20221228063000 +0200" channel="LTV7">
+    <title lang="lv">1000 jūdzes Urālu kalnos.8.sērija</title>
+  </programme>
+  <programme start="20221228063000 +0200" stop="20221228070000 +0200" channel="LTV7">
+    <title lang="lv">Projekts Nākotne. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228070000 +0200" stop="20221228073000 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221228073000 +0200" stop="20221228080000 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221228080000 +0200" stop="20221228085500 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221228085500 +0200" stop="20221228093100 +0200" channel="LTV7">
+    <title lang="lv">Ar sapni mugursomā</title>
+  </programme>
+  <programme start="20221228093100 +0200" stop="20221228101000 +0200" channel="LTV7">
+    <title lang="lv">Ar sapni mugursomā</title>
+  </programme>
+  <programme start="20221228101000 +0200" stop="20221228104000 +0200" channel="LTV7">
+    <title lang="lv">Globalizācija. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228104000 +0200" stop="20221228111000 +0200" channel="LTV7">
+    <title lang="lv">Ražots Vācijā. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228111000 +0200" stop="20221228113500 +0200" channel="LTV7">
+    <title lang="lv">Ceļā ar kameru. Ar mugursomām pa Latīņameriku. Dokumentāla filma.5.sērija</title>
+  </programme>
+  <programme start="20221228113500 +0200" stop="20221228121500 +0200" channel="LTV7">
+    <title lang="lv">Ciemos. TV spēle</title>
+  </programme>
+  <programme start="20221228121500 +0200" stop="20221228130500 +0200" channel="LTV7">
+    <title lang="lv">Personība. 100 g kultūras</title>
+  </programme>
+  <programme start="20221228130500 +0200" stop="20221228135000 +0200" channel="LTV7">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221228135000 +0200" stop="20221228155500 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20221228155500 +0200" stop="20221228162500 +0200" channel="LTV7">
+    <title lang="lv">Eiropa fokusā. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228162500 +0200" stop="20221228171000 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20221228171000 +0200" stop="20221228181000 +0200" channel="LTV7">
+    <title lang="lv">Mani Mumini. Ceļojums Muminielejā. Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228181000 +0200" stop="20221228190000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228190000 +0200" stop="20221228193000 +0200" channel="LTV7">
+    <title lang="lv">Šovakar. RUS.LSM.LV Ziņas</title>
+  </programme>
+  <programme start="20221228193000 +0200" stop="20221228201500 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars 2. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20221228201500 +0200" stop="20221228203000 +0200" channel="LTV7">
+    <title lang="lv">Zaļais pieskāriens. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228203000 +0200" stop="20221228203500 +0200" channel="LTV7">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228203500 +0200" stop="20221228210500 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221228210500 +0200" stop="20221228215500 +0200" channel="LTV7">
+    <title lang="lv">Skārletas jaunkundze un Velingtons. Detektīvseriāls</title>
+  </programme>
+  <programme start="20221228215500 +0200" stop="20221228225500 +0200" channel="LTV7">
+    <title lang="lv">Sporta studija. Aizkulises</title>
+  </programme>
+  <programme start="20221228225500 +0200" stop="20221229003000 +0200" channel="LTV7">
+    <title lang="lv">Fargo. Kriminālkomēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229003000 +0200" stop="20221229012000 +0200" channel="LTV7">
+    <title lang="lv">Eiropa koncertos. Stings un Karaliskais filharmoniskais orķestris. Koncertierakstu žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229012000 +0200" stop="20221229021000 +0200" channel="LTV7">
+    <title lang="lv">Eiropa koncertos. "Phoenix". Koncertierakstu žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229021000 +0200" stop="20221229024000 +0200" channel="LTV7">
+    <title lang="lv">Eiropa fokusā. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229024000 +0200" stop="20221229033500 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221229033500 +0200" stop="20221229060000 +0200" channel="LTV7">
+    <title lang="lv">Dziesmas - leģendas jeb Viss kā pirmoreiz</title>
+  </programme>
+  <programme start="20221229060000 +0200" stop="20221229060200 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221229060200 +0200" stop="20221229063000 +0200" channel="LTV7">
+    <title lang="lv">1000 jūdzes Urālu kalnos.9.sērija</title>
+  </programme>
+  <programme start="20221229063000 +0200" stop="20221229070000 +0200" channel="LTV7">
+    <title lang="lv">Pie stūres. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229070000 +0200" stop="20221229072800 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221229072800 +0200" stop="20221229075500 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221229075500 +0200" stop="20221229085000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221229085000 +0200" stop="20221229102500 +0200" channel="LTV7">
+    <title lang="lv">Ziemassvētku vecīša meita un karaļa kristāls. Ģimenes filma</title>
+  </programme>
+  <programme start="20221229102500 +0200" stop="20221229105500 +0200" channel="LTV7">
+    <title lang="lv">Citādi latviskais. Kaimiņi</title>
+  </programme>
+  <programme start="20221229105500 +0200" stop="20221229112000 +0200" channel="LTV7">
+    <title lang="lv">Ceļā ar kameru. Ar mugursomām pa Latīņameriku. Dokumentāla filma.6.sērija</title>
+  </programme>
+  <programme start="20221229112000 +0200" stop="20221229114500 +0200" channel="LTV7">
+    <title lang="lv">Ceļā ar kameru. Ar mugursomām pa Latīņameriku. Dokumentāla filma.7.sērija.(nosl.)</title>
+  </programme>
+  <programme start="20221229114500 +0200" stop="20221229122500 +0200" channel="LTV7">
+    <title lang="lv">Ciemos. TV spēle</title>
+  </programme>
+  <programme start="20221229122500 +0200" stop="20221229131500 +0200" channel="LTV7">
+    <title lang="lv">Personība. 100 g kultūras</title>
+  </programme>
+  <programme start="20221229131500 +0200" stop="20221229140000 +0200" channel="LTV7">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221229140000 +0200" stop="20221229160500 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20221229160500 +0200" stop="20221229163500 +0200" channel="LTV7">
+    <title lang="lv">Projekts Nākotne. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229163500 +0200" stop="20221229172000 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars 2. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20221229172000 +0200" stop="20221229174500 +0200" channel="LTV7">
+    <title lang="lv">Deivids Roko gatavo mājās. Dokumentālu filmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229174500 +0200" stop="20221229181000 +0200" channel="LTV7">
+    <title lang="lv">Deivids Roko gatavo mājās. Dokumentālu filmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229181000 +0200" stop="20221229190000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229190000 +0200" stop="20221229193000 +0200" channel="LTV7">
+    <title lang="lv">Šovakar. RUS.LSM.LV Ziņas</title>
+  </programme>
+  <programme start="20221229193000 +0200" stop="20221229213500 +0200" channel="LTV7">
+    <title lang="lv">Gada apskats 2022</title>
+  </programme>
+  <programme start="20221229213500 +0200" stop="20221229222500 +0200" channel="LTV7">
+    <title lang="lv">Slepkavības ziemeļos 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221229222500 +0200" stop="20221229232500 +0200" channel="LTV7">
+    <title lang="lv">Pa straumei. 3.sezona</title>
+  </programme>
+  <programme start="20221229232500 +0200" stop="20221230011000 +0200" channel="LTV7">
+    <title lang="lv">Fantomass. Mākslas filma</title>
+  </programme>
+  <programme start="20221230011000 +0200" stop="20221230031500 +0200" channel="LTV7">
+    <title lang="lv">Starptautiskais Eirovīzijas dziesmu konkurss. Pirmais pusfināls</title>
+  </programme>
+  <programme start="20221230031500 +0200" stop="20221230034500 +0200" channel="LTV7">
+    <title lang="lv">Projekts Nākotne. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230034500 +0200" stop="20221230044000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221230044000 +0200" stop="20221230060000 +0200" channel="LTV7">
+    <title lang="lv">Latviešu kino zelta dziesmas</title>
+  </programme>
+  <programme start="20221230060000 +0200" stop="20221230060200 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221230060200 +0200" stop="20221230063000 +0200" channel="LTV7">
+    <title lang="lv">1000 jūdzes Urālu kalnos.10.sērija.(nosl.)</title>
+  </programme>
+  <programme start="20221230063000 +0200" stop="20221230070000 +0200" channel="LTV7">
+    <title lang="lv">Euromaxx. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230070000 +0200" stop="20221230073000 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221230073000 +0200" stop="20221230080000 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20221230080000 +0200" stop="20221230085500 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221230085500 +0200" stop="20221230102000 +0200" channel="LTV7">
+    <title lang="lv">Ziemassvētku aļņa stāsts. Ģimenes filma</title>
+  </programme>
+  <programme start="20221230102000 +0200" stop="20221230105000 +0200" channel="LTV7">
+    <title lang="lv">Citādi latviskais. Kaimiņi</title>
+  </programme>
+  <programme start="20221230105000 +0200" stop="20221230113000 +0200" channel="LTV7">
+    <title lang="lv">Ciemos. TV spēle</title>
+  </programme>
+  <programme start="20221230113000 +0200" stop="20221230122000 +0200" channel="LTV7">
+    <title lang="lv">Personība. 100 g kultūras</title>
+  </programme>
+  <programme start="20221230122000 +0200" stop="20221230130500 +0200" channel="LTV7">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20221230130500 +0200" stop="20221230151000 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20221230151000 +0200" stop="20221230154000 +0200" channel="LTV7">
+    <title lang="lv">Globalizācija. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230154000 +0200" stop="20221230161000 +0200" channel="LTV7">
+    <title lang="lv">Ražots Vācijā. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230161000 +0200" stop="20221230162000 +0200" channel="LTV7">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230162000 +0200" stop="20221230181000 +0200" channel="LTV7">
+    <title lang="lv">Benksijs. Noziedzīgās mākslas dzimšana. Dokumentāla filma</title>
+  </programme>
+  <programme start="20221230181000 +0200" stop="20221230190000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221230190000 +0200" stop="20221230193000 +0200" channel="LTV7">
+    <title lang="lv">Šovakar. RUS.LSM.LV Ziņas</title>
+  </programme>
+  <programme start="20221230193000 +0200" stop="20221230220000 +0200" channel="LTV7">
+    <title lang="lv">Latvijas-Igaunijas basketbola līga. BK "LU " - BK "Ogre</title>
+  </programme>
+  <programme start="20221230220000 +0200" stop="20221230234500 +0200" channel="LTV7">
+    <title lang="lv">Rīgas Krievu teātra izrāde "Raimonds Pauls Rīgas Krievu teātrī</title>
+  </programme>
+  <programme start="20221230234500 +0200" stop="20221231001000 +0200" channel="LTV7">
+    <title lang="lv">Fati. Latgaliešu seriāls</title>
+  </programme>
+  <programme start="20221231001000 +0200" stop="20221231003500 +0200" channel="LTV7">
+    <title lang="lv">Fati. Latgaliešu seriāls</title>
+  </programme>
+  <programme start="20221231003500 +0200" stop="20221231021500 +0200" channel="LTV7">
+    <title lang="lv">Fantomass trako. Mākslas filma</title>
+  </programme>
+  <programme start="20221231021500 +0200" stop="20221231042000 +0200" channel="LTV7">
+    <title lang="lv">Starptautiskais Eirovīzijas dziesmu konkurss. Otrais pusfināls</title>
+  </programme>
+  <programme start="20221231042000 +0200" stop="20221231045000 +0200" channel="LTV7">
+    <title lang="lv">Pie stūres. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231045000 +0200" stop="20221231050500 +0200" channel="LTV7">
+    <title lang="lv">Dosimies ceļojumā! Pie viskija pirmsākumiem Skotijā. Dokumentāls īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231050500 +0200" stop="20221231060000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20221231060000 +0200" stop="20221231060300 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20221231060300 +0200" stop="20221231061900 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20221231061900 +0200" stop="20221231063500 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20221231063500 +0200" stop="20221231065200 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20221231065200 +0200" stop="20221231071000 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20221231071000 +0200" stop="20221231084000 +0200" channel="LTV7">
+    <title lang="lv">Trīs tenori. Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231084000 +0200" stop="20221231090000 +0200" channel="LTV7">
+    <title lang="lv">Dienaszagļu rīta rosme</title>
+  </programme>
+  <programme start="20221231090000 +0200" stop="20221231093000 +0200" channel="LTV7">
+    <title lang="lv">Dienaszagļu rīta rosme. 2.sezona</title>
+  </programme>
+  <programme start="20221231093000 +0200" stop="20221231114500 +0200" channel="LTV7">
+    <title lang="lv">Supernova 2022. Fināls</title>
+  </programme>
+  <programme start="20221231114500 +0200" stop="20221231123000 +0200" channel="LTV7">
+    <title lang="lv">Eirovīzija. Citi Zēni</title>
+  </programme>
+  <programme start="20221231123000 +0200" stop="20221231132000 +0200" channel="LTV7">
+    <title lang="lv">Daudz laimes, mister Bīn! Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231132000 +0200" stop="20221231140900 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231140900 +0200" stop="20221231145600 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231145600 +0200" stop="20221231154500 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231154500 +0200" stop="20221231163300 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231163300 +0200" stop="20221231172000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231172000 +0200" stop="20221231191500 +0200" channel="LTV7">
+    <title lang="lv">XXVI Dziesmu un deju svētku atklāšanas koncerts svētku dalībniekiem</title>
+  </programme>
+  <programme start="20221231191500 +0200" stop="20221231205500 +0200" channel="LTV7">
+    <title lang="lv">“MESA” koncerts “Tuvāk Tev</title>
+  </programme>
+  <programme start="20221231205500 +0200" stop="20221231221500 +0200" channel="LTV7">
+    <title lang="lv">No Ghetto līdz Olimpiskajam zeltam</title>
+  </programme>
+  <programme start="20221231221500 +0200" stop="20221231234800 +0200" channel="LTV7">
+    <title lang="lv">“Metallica” un Sanfrancisko simfoniskais orķestris. Koncerts (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20221231234800 +0200" stop="20221231235500 +0200" channel="LTV7">
+    <title lang="lv">Latvijas Republikas Ministru prezidenta Krišjāņa Kariņa uzruna gadumijā</title>
+  </programme>
+  <programme start="20221231235500 +0200" stop="20230101000000 +0200" channel="LTV7">
+    <title lang="lv">Latvijas Valsts prezidenta Egila Levita uzruna gadumijā</title>
+  </programme>
+  <programme start="20230101000000 +0200" stop="20230101000300 +0200" channel="LTV7">
+    <title lang="lv">Gadumijas sagaidīšana. Latvijas Valsts himna</title>
+  </programme>
+  <programme start="20230101000300 +0200" stop="20230101014000 +0200" channel="LTV7">
+    <title lang="lv">Fantomass pret Skotlendjardu. Mākslas filma</title>
+  </programme>
+  <programme start="20230101014000 +0200" stop="20230101054000 +0200" channel="LTV7">
+    <title lang="lv">Starptautiskais Eirovīzijas dziesmu konkurss. Fināls</title>
+  </programme>
+  <programme start="20230101054000 +0200" stop="20230101055500 +0200" channel="LTV7">
+    <title lang="lv">Dosimies ceļojumā! Losandželosa un Frenks Gērijs. Dokumentāls īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101055500 +0200" stop="20230101060000 +0200" channel="LTV7">
+    <title lang="lv">Dari pats. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101060000 +0200" stop="20230101060300 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230101060300 +0200" stop="20230101062000 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20230101062000 +0200" stop="20230101063700 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20230101063700 +0200" stop="20230101065500 +0200" channel="LTV7">
+    <title lang="lv">Muzikāls vingrošanas raidījums "VIENĀ RITMĀ" 2.sezona</title>
+  </programme>
+  <programme start="20230101065500 +0200" stop="20230101073000 +0200" channel="LTV7">
+    <title lang="lv">Latvijas Sirdsdziesma. Vecgada vakara speciālizlaidums</title>
+  </programme>
+  <programme start="20230101073000 +0200" stop="20230101080000 +0200" channel="LTV7">
+    <title lang="lv">Dienaszagļu rīta rosme. 2.sezona</title>
+  </programme>
+  <programme start="20230101080000 +0200" stop="20230101082700 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101082700 +0200" stop="20230101085300 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101085300 +0200" stop="20230101092000 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101092000 +0200" stop="20230101094500 +0200" channel="LTV7">
+    <title lang="lv">Kulta ēdieni. Ukraina</title>
+  </programme>
+  <programme start="20230101094500 +0200" stop="20230101101000 +0200" channel="LTV7">
+    <title lang="lv">Deivids Roko gatavo mājās. Dokumentālu filmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101101000 +0200" stop="20230101103500 +0200" channel="LTV7">
+    <title lang="lv">Deivids Roko gatavo mājās. Dokumentālu filmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101103500 +0200" stop="20230101120000 +0200" channel="LTV7">
+    <title lang="lv">No Ghetto līdz Olimpiskajam zeltam</title>
+  </programme>
+  <programme start="20230101120000 +0200" stop="20230101140500 +0200" channel="LTV7">
+    <title lang="lv">Vecgada svinības ar Labvēlīgo Tipu “Lai laime…</title>
+  </programme>
+  <programme start="20230101140500 +0200" stop="20230101160500 +0200" channel="LTV7">
+    <title lang="lv">Džezā tikai meitenes. Romantiska komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101160500 +0200" stop="20230101174500 +0200" channel="LTV7">
+    <title lang="lv">Fantomass pret Skotlendjardu. Mākslas filma</title>
+  </programme>
+  <programme start="20230101174500 +0200" stop="20230101183500 +0200" channel="LTV7">
+    <title lang="lv">Skārletas jaunkundze un Velingtons. Detektīvseriāls</title>
+  </programme>
+  <programme start="20230101183500 +0200" stop="20230101192700 +0200" channel="LTV7">
+    <title lang="lv">Skārletas jaunkundze un Velingtons. Detektīvseriāls</title>
+  </programme>
+  <programme start="20230101192700 +0200" stop="20230101202000 +0200" channel="LTV7">
+    <title lang="lv">Skārletas jaunkundze un Velingtons. Detektīvseriāls</title>
+  </programme>
+  <programme start="20230101202000 +0200" stop="20230101211000 +0200" channel="LTV7">
+    <title lang="lv">Slepkavības ziemeļos 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101211000 +0200" stop="20230101220000 +0200" channel="LTV7">
+    <title lang="lv">Slepkavības ziemeļos 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101220000 +0200" stop="20230101234000 +0200" channel="LTV7">
+    <title lang="lv">Četras istabas. Komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230101234000 +0200" stop="20230102003000 +0200" channel="LTV7">
+    <title lang="lv">Daudz laimes, mister Bīn! Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102003000 +0200" stop="20230102011500 +0200" channel="LTV7">
+    <title lang="lv">Eiropa koncertos. Andrea Motis quintett. Koncertierakstu žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102011500 +0200" stop="20230102021500 +0200" channel="LTV7">
+    <title lang="lv">Sporta studija. Aizkulises</title>
+  </programme>
+  <programme start="20230102021500 +0200" stop="20230102031000 +0200" channel="LTV7">
+    <title lang="lv">Dzimtas detektīvs. Grēviņu dzimta</title>
+  </programme>
+  <programme start="20230102031000 +0200" stop="20230102034000 +0200" channel="LTV7">
+    <title lang="lv">Ielas garumā. Liepāja. Kūrmājas prospekts</title>
+  </programme>
+  <programme start="20230102034000 +0200" stop="20230102041000 +0200" channel="LTV7">
+    <title lang="lv">Ielas garumā. Jaunliepāja. Rīgas iela</title>
+  </programme>
+  <programme start="20230102041000 +0200" stop="20230102051000 +0200" channel="LTV7">
+    <title lang="lv">LTV - 60. Zelta arhīvs. M.Naumovas koncerts</title>
+  </programme>
+  <programme start="20230102051000 +0200" stop="20230102060000 +0200" channel="LTV7">
+    <title lang="lv">LTV - 60. Zelta arhīvs. M.Naumovas koncerts</title>
+  </programme>
+  <programme start="20230102060000 +0200" stop="20230102060200 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230102060200 +0200" stop="20230102063000 +0200" channel="LTV7">
+    <title lang="lv">700 pasaules brīnumi. Ziemeļindija</title>
+  </programme>
+  <programme start="20230102063000 +0200" stop="20230102070000 +0200" channel="LTV7">
+    <title lang="lv">Vienmēr formā! Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102070000 +0200" stop="20230102072500 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20230102072500 +0200" stop="20230102075500 +0200" channel="LTV7">
+    <title lang="lv">Divi vienā. Seriāls. 2. sezona</title>
+  </programme>
+  <programme start="20230102075500 +0200" stop="20230102085000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20230102085000 +0200" stop="20230102093000 +0200" channel="LTV7">
+    <title lang="lv">Daudz laimes, jubilār! Aktrise Indra Briķe</title>
+  </programme>
+  <programme start="20230102093000 +0200" stop="20230102103000 +0200" channel="LTV7">
+    <title lang="lv">Sporta studija. Aizkulises</title>
+  </programme>
+  <programme start="20230102103000 +0200" stop="20230102112000 +0200" channel="LTV7">
+    <title lang="lv">Savējie. Seriāls</title>
+  </programme>
+  <programme start="20230102112000 +0200" stop="20230102120000 +0200" channel="LTV7">
+    <title lang="lv">Ciemos. TV spēle</title>
+  </programme>
+  <programme start="20230102120000 +0200" stop="20230102125000 +0200" channel="LTV7">
+    <title lang="lv">Personība. 100 g kultūras</title>
+  </programme>
+  <programme start="20230102125000 +0200" stop="20230102133500 +0200" channel="LTV7">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20230102133500 +0200" stop="20230102134500 +0200" channel="LTV7">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102134500 +0200" stop="20230102154500 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20230102154500 +0200" stop="20230102165500 +0200" channel="LTV7">
+    <title lang="lv">Gada notikumu apskats 2022</title>
+  </programme>
+  <programme start="20230102165500 +0200" stop="20230102171500 +0200" channel="LTV7">
+    <title lang="lv">Aculiecinieks. Kara bērni</title>
+  </programme>
+  <programme start="20230102171500 +0200" stop="20230102181000 +0200" channel="LTV7">
+    <title lang="lv">Dabas skaitītāji. Dokumentāla filma</title>
+  </programme>
+  <programme start="20230102181000 +0200" stop="20230102190000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102190000 +0200" stop="20230102193000 +0200" channel="LTV7">
+    <title lang="lv">Šovakar. RUS.LSM.LV Ziņas</title>
+  </programme>
+  <programme start="20230102193000 +0200" stop="20230102201500 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars 2. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20230102201500 +0200" stop="20230102203000 +0200" channel="LTV7">
+    <title lang="lv">Zaļais pieskāriens. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102203000 +0200" stop="20230102210000 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102210000 +0200" stop="20230102215000 +0200" channel="LTV7">
+    <title lang="lv">Slepkavības ziemeļos 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230102215000 +0200" stop="20230102235000 +0200" channel="LTV7">
+    <title lang="lv">Mulenrūža. Mūzikls</title>
+  </programme>
+  <programme start="20230102235000 +0200" stop="20230103005000 +0200" channel="LTV7">
+    <title lang="lv">Birmingemas banda. Kriminālseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103005000 +0200" stop="20230103015000 +0200" channel="LTV7">
+    <title lang="lv">Birmingemas banda. Kriminālseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103015000 +0200" stop="20230103035500 +0200" channel="LTV7">
+    <title lang="lv">2022. gada FIFA Pasaules kauss futbolā</title>
+  </programme>
+  <programme start="20230103035500 +0200" stop="20230103045000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20230103045000 +0200" stop="20230103052000 +0200" channel="LTV7">
+    <title lang="lv">Izziņas impulss</title>
+  </programme>
+  <programme start="20230103052000 +0200" stop="20230103052500 +0200" channel="LTV7">
+    <title lang="lv">TUESI.LV īsfilmas par cilvēkiem Latvijā</title>
+  </programme>
+  <programme start="20230103052500 +0200" stop="20230103060000 +0200" channel="LTV7">
+    <title lang="lv">Daudz laimes, jubilār! Aktrise Indra Briķe</title>
+  </programme>
+  <programme start="20230103060000 +0200" stop="20230103060200 +0200" channel="LTV7">
+    <title lang="lv">Latvijas valsts himna</title>
+  </programme>
+  <programme start="20230103060200 +0200" stop="20230103063000 +0200" channel="LTV7">
+    <title lang="lv">700 pasaules brīnumi. Ziemeļindija</title>
+  </programme>
+  <programme start="20230103063000 +0200" stop="20230103070000 +0200" channel="LTV7">
+    <title lang="lv">Eiropa fokusā. Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103070000 +0200" stop="20230103075500 +0200" channel="LTV7">
+    <title lang="lv">Eņģeļu māja. LTV seriāls</title>
+  </programme>
+  <programme start="20230103075500 +0200" stop="20230103082500 +0200" channel="LTV7">
+    <title lang="lv">Eņģeļu māja. LTV seriāls</title>
+  </programme>
+  <programme start="20230103082500 +0200" stop="20230103092000 +0200" channel="LTV7">
+    <title lang="lv">TE! Latvijas raidījums</title>
+  </programme>
+  <programme start="20230103092000 +0200" stop="20230103095000 +0200" channel="LTV7">
+    <title lang="lv">Province</title>
+  </programme>
+  <programme start="20230103095000 +0200" stop="20230103104000 +0200" channel="LTV7">
+    <title lang="lv">Eiropa koncertos. Andrea Motis quintett. Koncertierakstu žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103104000 +0200" stop="20230103111000 +0200" channel="LTV7">
+    <title lang="lv">Savējie. Seriāls</title>
+  </programme>
+  <programme start="20230103111000 +0200" stop="20230103114000 +0200" channel="LTV7">
+    <title lang="lv">No pusvārda. TV spēle</title>
+  </programme>
+  <programme start="20230103114000 +0200" stop="20230103121000 +0200" channel="LTV7">
+    <title lang="lv">No pusvārda. TV spēle</title>
+  </programme>
+  <programme start="20230103121000 +0200" stop="20230103130500 +0200" channel="LTV7">
+    <title lang="lv">Personība. 100 g kultūras</title>
+  </programme>
+  <programme start="20230103130500 +0200" stop="20230103135000 +0200" channel="LTV7">
+    <title lang="lv">Medmāsa Betija 4. Vācijas seriāls</title>
+  </programme>
+  <programme start="20230103135000 +0200" stop="20230103153500 +0200" channel="LTV7">
+    <title lang="lv">Rīgas Krievu teātra izrāde "Raimonds Pauls Rīgas Krievu teātrī</title>
+  </programme>
+  <programme start="20230103153500 +0200" stop="20230103160500 +0200" channel="LTV7">
+    <title lang="lv">Vienmēr formā! Deutsche Welle žurnāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103160500 +0200" stop="20230103162000 +0200" channel="LTV7">
+    <title lang="lv">Dosimies ceļojumā! Itālija: alu mājokļi Matērā. Dokumentāls īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103162000 +0200" stop="20230103162500 +0200" channel="LTV7">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103162500 +0200" stop="20230103171500 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars 2. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20230103171500 +0200" stop="20230103181000 +0200" channel="LTV7">
+    <title lang="lv">Mākslīgā intelekta drauds. Dokumentāla filma (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103181000 +0200" stop="20230103190000 +0200" channel="LTV7">
+    <title lang="lv">Komisārs Reksis 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103190000 +0200" stop="20230103193000 +0200" channel="LTV7">
+    <title lang="lv">Šovakar. RUS.LSM.LV Ziņas</title>
+  </programme>
+  <programme start="20230103193000 +0200" stop="20230103201500 +0200" channel="LTV7">
+    <title lang="lv">Nemiera gars 2. Dokumentāla daudzsēriju filma</title>
+  </programme>
+  <programme start="20230103201500 +0200" stop="20230103203000 +0200" channel="LTV7">
+    <title lang="lv">Zaļais pieskāriens. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103203000 +0200" stop="20230103210000 +0200" channel="LTV7">
+    <title lang="lv">Tēvs Teds 3. Situāciju komēdija (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103210000 +0200" stop="20230103215000 +0200" channel="LTV7">
+    <title lang="lv">Slepkavības ziemeļos 5. Detektīvseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103215000 +0200" stop="20230103220000 +0200" channel="LTV7">
+    <title lang="lv">Zinātnes noslēpumi. Dokumentālu īsfilmu cikls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103220000 +0200" stop="20230103225000 +0200" channel="LTV7">
+    <title lang="lv">Vikingi 4. Vēsturisks seriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+  <programme start="20230103225000 +0200" stop="20230103235000 +0200" channel="LTV7">
+    <title lang="lv">Zudušie gadi. Drāma/zinātniskā fantastika</title>
+  </programme>
+  <programme start="20230103235000 +0200" stop="20230104005000 +0200" channel="LTV7">
+    <title lang="lv">Birmingemas banda. Kriminālseriāls (oriģinālvalodas izvēle)</title>
+  </programme>
+</tv>
